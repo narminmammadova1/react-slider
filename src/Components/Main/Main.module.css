@@ -14,12 +14,13 @@
     /* width: 80px; */
     border-radius: 8px;
     font-size: 24px;
+    cursor: pointer;
 
 }
 button:disabled {
     background-color: rgb(182, 164, 164);
     color: gray;
-    cursor: pointer;
+   cursor:default;
   }
   .imgDiv{
     width: 50%;
